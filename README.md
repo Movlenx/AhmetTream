@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @AhmetTream
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I am...
 
-<!---
-AhmetTream/AhmetTream is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+------------------------------------------------------------
+#include "Movlenx"
+
+int main() {
+printf("No need introduce, you will know me by my code");
+return main();
+}
+-------------------------------------------------------------
